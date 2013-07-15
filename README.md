@@ -1,5 +1,5 @@
-Supplementary materials for the book Analytic Methods of Sound Field Synthesis by J. Ahrens
-===========================================================================================
+## Supplementary materials for the book Analytic Methods of Sound Field Synthesis by J. Ahren
+
 
 ### Website
 
