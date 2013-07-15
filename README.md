@@ -3,7 +3,7 @@
 
 ### Website
 
-See also http://www.soundfieldsynthesis.org/matlab/
+See also http://www.soundfieldsynthesis.org/
 
 
 ### Usage
